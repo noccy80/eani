@@ -1,0 +1,15 @@
+## Interface: 30000
+## Title: DefCon (Ace3)
+## Notes: Track the localdefense/worlddefense channels
+## Author: Noccy
+## Version: 1.0.3
+## OptionalDeps: Ace3
+## SavedVariables: DefConDB
+## SavedVariablesPerCharacter: DefConDBPC
+## X-Category: PvP
+
+embeds.xml
+
+localisation.lua
+zonedata.lua
+core.lua
