@@ -1,0 +1,14 @@
+## Interface: 30000
+## Title: DedicatedDriver Plus (Ace3)
+## Notes: Handy stuff for automated following and such
+## Author: Noccy
+## Version: 0.1
+## OptionalDeps: Ace3
+## SavedVariables: DDPlusDB
+## SavedVariablesPerCharacter: DDPlusDBPC
+## X-Category: Raid
+
+Embeds.xml
+
+Localisation.lua
+Core.lua

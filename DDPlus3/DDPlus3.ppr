@@ -1,0 +1,37 @@
+[Config]
+Relative path=1
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+FileFormat=0
+[Project tree]
+DDPlus3
+	+Code
+		core.lua
+		localisation.lua
+		DDPlus3.toc
+		embeds.xml
+[Open project files]
+0=localisation.lua
+1=embeds.xml
+2=DDPlus3.toc
+3=core.lua
+[Selected Project Files]
+Main=
+Selected=embeds.xml
+[localisation.lua]
+TopLine=1
+Caret=50,14
+[embeds.xml]
+TopLine=1
+Caret=1,1
+[DDPlus3.toc]
+TopLine=1
+Caret=1,1
+[core.lua]
+TopLine=1
+Caret=59,6
